@@ -30,7 +30,7 @@
 <a href="https://fb.com/gabriel.faundez.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabriel.faundez.31" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielxfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabrielxfs" height="30" width="40" /></a>
 <a href="https://medium.com/@gabriel.faundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabriel.faundez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc-a4j75ukwbcktbztmsffka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc-a4j75ukwbcktbztmsffka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-A4J75UKWbcktbztmSffKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc-a4j75ukwbcktbztmsffka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
