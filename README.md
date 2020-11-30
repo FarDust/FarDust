@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/gxfaundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gxfaundez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gnfaundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gnfaundez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/137356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="137356" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13800548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="137356" height="30" width="40" /></a>
 <a href="https://kaggle.com/fardust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="fardust" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel.faundez.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabriel.faundez.31" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielxfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabrielxfs" height="30" width="40" /></a>
