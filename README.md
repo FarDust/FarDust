@@ -2,9 +2,7 @@
 ![space in a nutshell with colors](https://news.ku.edu/sites/news.ku.edu/files/images/general/2020_news/july/DeepSpace-rh-news.jpg)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FarDust&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarDust&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FarDust&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarDust&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FarDust/FarDust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
