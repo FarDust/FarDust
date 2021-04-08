@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Dungeon Scape](https://fardust.itch.io/dungeonscape)
 
-- 🌱 I’m currently learning **Unity 3D shaders**
+- 🌱 I’m currently learning **Digital image processing**
 
 - 👯 I’m looking to collaborate on **Any automation project**
 
-- 🤝 I’m looking for help with **Nothing for now! any idea?**
+- 🤝 I’m looking for help with [**Open Source UC**](https://github.com/open-source-uc)
 
-- 💬 Ask me about **Design patterns, Tensorflow, Python,Unity and GCP**
+- 💬 Ask me about **Design patterns, Tensorflow, Python, Unity and GCP**
 
 - 📫 How to reach me **gnfaundez@uc.cl**
 
-- ⚡ Fun fact **I love to personalize things**
+- ⚡ Fun fact **I don't like the taste of red meat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
