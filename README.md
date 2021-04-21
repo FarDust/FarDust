@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardust&label=Profile%20views&color=0e75b6&style=flat" alt="fardust" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gxfaundez" target="blank"><img src="https://img.shields.io/twitter/follow/gxfaundez?logo=twitter&style=for-the-badge" alt="gxfaundez" /></a> </p>
-
-- 🔭 I’m currently working on [Dungeon Scape](https://fardust.itch.io/dungeonscape)
+- 🔭 I’m currently working on [Uncropped](https://github.com/FarDust/uncropped)
 
 - 🌱 I’m currently learning **Digital image processing**
 
@@ -35,6 +33,8 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FarDust&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarDust&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 <!--
 **FarDust/FarDust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
