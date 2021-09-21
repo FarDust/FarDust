@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardust&label=Profile%20views&color=0e75b6&style=flat" alt="fardust" /> </p>
 
-- 🔭 I’m currently working on [Uncropped](https://github.com/FarDust/uncropped)
+- 🔭 I’m currently working on [**Open Source UC**](https://github.com/open-source-uc)
 
-- 🌱 I’m currently learning **Digital image processing**
+- 🌱 I’m currently learning **Voxel rendering**
 
 - 👯 I’m looking to collaborate on **Any automation project**
-
-- 🤝 I’m looking for help with [**Open Source UC**](https://github.com/open-source-uc)
 
 - 💬 Ask me about **Design patterns, Tensorflow, Python, Unity and GCP**
 
