@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardust&label=Profile%20views&color=0e75b6&style=flat" alt="fardust" /> </p>
 
-- 🔭 I’m currently working on [**Open Source UC**](https://github.com/open-source-uc)
+- 🔭 I’m currently working at [**Betterfly**](https://gobetterfly.com/en/) as data engineer.
 
-- 🌱 I’m currently learning **Voxel rendering**
+- 🌱 I’m currently learning **new tools for development** on [github topics](https://github.com/topics)
 
-- 👯 I’m looking to collaborate on **Any automation project**
+- 👯 I’m looking to collaborate on **ML Frameworks**
 
-- 💬 Ask me about **Design patterns, Tensorflow, Python, Unity and GCP**
+- 💬 Ask me about **Design patterns, Tensorflow, Python and Unity**
 
 - 📫 How to reach me **gnfaundez@uc.cl**
 
@@ -19,18 +19,59 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gxfaundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gxfaundez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gnfaundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gnfaundez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13800548" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="137356" height="30" width="40" /></a>
-<a href="https://kaggle.com/fardust" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="fardust" height="30" width="40" /></a>
-<a href="https://fb.com/gabriel.faundez.31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabriel.faundez.31" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrielxfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabrielxfs" height="30" width="40" /></a>
-<a href="https://medium.com/@gabriel.faundez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabriel.faundez" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC-A4J75UKWbcktbztmSffKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc-a4j75ukwbcktbztmsffka" height="30" width="40" /></a>
+<a href="https://t.me/gnfaundez">
+  <img alt="Gabriel's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://instagram.com/gabrielxfs">
+  <img alt="Gabriel's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gnfaundez/">
+  <img alt="Gabriel's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FarDust&count_private=true&show_icons=true&theme=onedark&&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FarDust&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarDust&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Skills
+### Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarDust&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact&&card_width=640px)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/traefik-9D0FB0?style=for-the-badge&logo=traefikmesh&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=black)
+
+### Frameworks and libraries
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+## Another Stats
 
 ![Metrics](https://github.com/FarDust/FarDust/blob/main/github-metrics.svg)
 
