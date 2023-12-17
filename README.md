@@ -1,17 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Gabriel Faundez</h1>
-<h3 align="center">A Software developer in love with computer vision.</h3>
+<h3 align="center">A Software developer learning things every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardust&label=Profile%20views&color=0e75b6&style=flat" alt="fardust" /> </p>
 
-- 🔭 I’m currently working at [**Betterfly**](https://gobetterfly.com/en/) as data engineer.
-
-- 🌱 I’m currently learning **new tools for development** on [github topics](https://github.com/topics)
+- 🔭 I’m currently working at [**Neuralworks**](https://neuralworks.cl/) as ml engineer.
 
 - 👯 I’m looking to collaborate on **ML Frameworks**
-
-- 💬 Ask me about **Design patterns, Tensorflow, Python and Unity**
 
 - 📫 How to reach me **gnfaundez@uc.cl**
 
